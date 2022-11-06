@@ -17,7 +17,7 @@ const SubsectionWrapper = styled.section`
     gap: 16px;
   }
 
-  .jHLxum {
+  .sc-hLBbgP {
     align-self: flex-end;
   }
 `;
